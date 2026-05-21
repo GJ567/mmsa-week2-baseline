@@ -1,0 +1,10 @@
+MMSA
+numpy==1.26.4
+transformers==4.30.2
+tokenizers==0.13.3
+scikit-learn
+scipy
+pandas
+tqdm
+easydict
+h5py
