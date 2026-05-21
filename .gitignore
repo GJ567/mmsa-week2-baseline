@@ -1,0 +1,21 @@
+# 不上传数据集
+data/
+*.pkl
+*.h5
+*.npy
+*.npz
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# VSCode 配置
+.vscode/
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# 实验输出
+/results/
+*.csv
+*.log
